@@ -1,4 +1,4 @@
-name: Github Actions
+name: Github Actions Build
 on: [push, pull_request]
 jobs:
   build:

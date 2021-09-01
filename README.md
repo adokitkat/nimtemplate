@@ -1,6 +1,7 @@
-# You can use this nim template to jump start your nim library or project.
+# You can use this nim template to jump start your nim library or project
 
 This template includes:
+
 * MIT licence
 * src directory and a private common.nim
 * test directory
